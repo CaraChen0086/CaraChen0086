@@ -1,39 +1,30 @@
-# Hey, I'm Cara 👋
+# Hey there 👋
 
-I'm a CS Master's student at Johns Hopkins, previously at SAP.
+I'm Cara, a CS Master's student at Johns Hopkins (previously at SAP).
 
-I build AI systems for real-world decision-making.
+I build AI systems for real-world decision-making — not just answering questions, but actually helping people make better decisions.
 
----
 
-### 🧠 What I'm working on
 
-- Clinical AI agent  
-  → decision pipeline (not just Q&A)  
-  → RAG + verification + counterfactual reasoning  
+Right now I'm working on a clinical AI agent.
 
-- Reliable AI systems  
-  → reducing hallucination  
-  → grounding outputs in real evidence  
+👉 Latest project:   https://github.com/CaraChen0086/evo-med-agent/tree/main
 
----
 
-### ⚙️ Tech
+My main stack is Python, JavaScript, Java, LLMs, RAG, FastAPI, and some React on the frontend.
 
-Python · LLMs · RAG · FastAPI · React · Vector DBs  
+I enjoy thinking about systems end-to-end — from model → product → real-world use.
 
----
 
-### 📌 Selected Work
+Some things I’ve built:
 
 - Clinical Decision Agent  
-- Enterprise RAG Chatbot (54% → 93% accuracy)  
-- Automation Tool @ SAP (~12.5 FTE saved)  
+- Enterprise RAG chatbot (54% → 93% accuracy)  
+- Automation tool @ SAP (~12.5 FTE saved)  
 - BloomNet (full-stack marketplace)
 
----
+Fun facts:
 
-### 💡 Focus
-
-Building AI systems people can trust  
-→ not just answers, but decisions
+- My profile photo is my cat, Latte 🐱  
+- I like hiking and photography  
+- I enjoy both building and product thinking  
