@@ -37,10 +37,3 @@ Python · LLMs · RAG · FastAPI · React · Vector DBs
 
 Building AI systems people can trust  
 → not just answers, but decisions
-
----
-
-### 📫 Contact
-
-- LinkedIn: [link]
-- Email: [email]
